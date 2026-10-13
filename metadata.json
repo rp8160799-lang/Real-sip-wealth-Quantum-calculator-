@@ -1,0 +1,7 @@
+{
+  "name": "SIP Wealth Calculator",
+  "description": "An ultra-futuristic Singularity Wealth OS workstation featuring a 3D WebGL/Canvas mathematical particle mesh, live real-time AI intelligence terminal, 400-path stochastic Monte Carlo simulation engine, Budget 2024 LTCG (12.5% + 4% cess) tax calculations, expense ratio drag analysis, interactive multi-mode Chart.js visualizations, and 1-click PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
